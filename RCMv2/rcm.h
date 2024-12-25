@@ -425,6 +425,12 @@ uint8_t portMap[8][2] = { { 5, 4 }, { 7, 6 }, { 9, 8 }, { 11, 10 }, { 14, 15 }, 
 #define servo6port SERVO_6_CHANNEL, PIN_SERVO_6
 
 #define ONBOARD_LED RSL_PIN
+#define encoder2port 18, 17
+#define encoder3port 16, 15
+#define encoder4port 11, 10
+#define encoder5port 41, 42
+#define encoder6port 40, 39
+#define encoder7port 38, 37
 
 #define batMonitorPin PIN_SNS_VIN
 

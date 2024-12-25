@@ -1,0 +1,13 @@
+arcade drive test
+192.168.137.193:25210
+ping: ,var:ping;ip: ,var:ip;port: ,var:port;;turn: ,var:0;speed: ,var:1;;left: ,var:9;right: ,var:8
+7,7
+
+
+1,s,w,Y Axis,1,1,-1,1,true
+0,a,d,X Rotation,1,1,-1,1,false
+
+
+
+0,1,.185,.55,888888,125
+
